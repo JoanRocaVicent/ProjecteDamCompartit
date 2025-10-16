@@ -10,6 +10,6 @@ void main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         IO.println("i = " + i);
     }
-    System.out.println("Editat per mi, en Biel");
+    System.out.println("Editat per mi, en joan");
     // Ha estat editat per el col·laborador Biel Viñas
 }
